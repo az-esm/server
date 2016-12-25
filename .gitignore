@@ -43,3 +43,9 @@ jspm_packages
 .idea/server.iml
 .idea/workspace.xml
 test/
+
+.idea/jsLibraryMappings.xml
+
+.idea/jsLinters/eslint.xml
+
+.idea/vcs.xml
